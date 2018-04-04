@@ -1,2 +1,2 @@
 # linux_war_game
-https://scrpitgames.ga/lazy
+https://scriptgames.ga/lazy
