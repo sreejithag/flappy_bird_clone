@@ -1,2 +1,1 @@
-# linux_war_game
-https://scriptgames.ga/lazy
+simple html5 flappy bird game 
